@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    color: #333;
+}
+
+.titre{
+    color: red;
+    text-align: center;
+}
+
+.image{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30%;
+      }
+    
+      h3 {
+        text-decoration: underline;
+      }
+
+      .title {
+        text-align: center;
+        color: red;
+        margin: 20px 0;
+        font-size: 24px;
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 10px;
+    }
+    
+    .nba-section {
+        width: 80%;
+        margin: 20px auto;
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 20px;
+    }
+    
+    .nba-section h2 {
+        font-size: 20px;
+        color: #333;
+    }
+    
+    .nba-section img {
+        display: block;
+        margin: 10px 0;
+        width: 60%;
+        height: 50%;
+    }
+    
+    .nba-section p {
+        font-size: 16px;
+        color: #555;
+    }
+    
+    .title {
+        text-align: center;
+        color: red;
+        margin: 20px 0;
+        font-size: 24px;
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 10px;
+    }
+    
+    .team-section {
+        width: 80%;
+        margin: 20px auto;
+        border-bottom: 1px solid #ccc;
+        padding-bottom: 20px;
+    }
+    
+    .team-section h2 {
+        font-size: 20px;
+        color: #333;
+    }
+    
+    .team-section img {
+        display: block;
+        margin: 10px 0;
+        width: 100px;
+        height: auto;
+    }
+    
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    
+    table td {
+        padding: 5px;
+        border: 1px solid #ccc;
+    }
+    
+    .team-section p {
+        font-size: 16px;
+        color: #555;
+    }
